@@ -1,8 +1,0 @@
-H:\Development\flickapi\flickapi\flickapi\obj\Debug\flickapi.csprojResolveAssemblyReference.cache
-H:\Development\flickapi\flickapi\flickapi\bin\Debug\flickapi.exe.config
-H:\Development\flickapi\flickapi\flickapi\bin\Debug\flickapi.exe
-H:\Development\flickapi\flickapi\flickapi\bin\Debug\flickapi.pdb
-H:\Development\flickapi\flickapi\flickapi\bin\Debug\Newtonsoft.Json.dll
-H:\Development\flickapi\flickapi\flickapi\bin\Debug\Newtonsoft.Json.xml
-H:\Development\flickapi\flickapi\flickapi\obj\Debug\flickapi.exe
-H:\Development\flickapi\flickapi\flickapi\obj\Debug\flickapi.pdb
